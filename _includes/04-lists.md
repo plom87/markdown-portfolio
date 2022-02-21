@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- [ ] nadar
+- [ ] comer
+- [ ] estudiar
+  - [ ] sacar certificaciones
+  - [ ] titularme   
+- [ ] trabajar
