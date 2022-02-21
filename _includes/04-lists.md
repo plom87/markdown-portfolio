@@ -1,0 +1,6 @@
+- [ ] nadar
+- [ ] comer
+- [ ] estudiar
+  - [ ] sacar certificaciones
+  - [ ] titularme   
+- [ ] trabajar
